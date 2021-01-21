@@ -1,10 +1,10 @@
 #### Data Analysis with Pandas; seattle-401pyn2
 ### Seattle Bike Trip Stats
 - Kim Damalas, 20 Jan 2021
-- using stats from [Kaggle](https://www.kaggle.com/pronto/cycle-share-dataset): station.csv
+- using stats from [Kaggle](https://www.kaggle.com/pronto/cycle-share-dataset): trips.csv
 
 
-Submission pull request: 
+Submission pull request: https://github.com/kimmyd70/bike-stats/pull/1
 
 ## Description
 ___________
